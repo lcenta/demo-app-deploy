@@ -6,4 +6,4 @@ resources:
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/lcenta/demo-app
-  newTag: e354dbc86391e0fcbc15d384447a2891c04ebb36
+  newTag: 2a58d7d4d2004446c40fe21831aa96a78bc22239
